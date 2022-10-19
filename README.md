@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schorreck
-- 👀 I’m interested in  participar de novos projetos
-- 🌱 I’m currently learni ng  python  e c++
+- 👀 I'm interested in participating in new projects
+- 🌱 I’m currently learni ng  Python, C++ and Cybersegurity
 - 💞️ I’m looking to collaborate on  com parceiros e amigos  que estejam envonvidos em criação 
 - robotica  tenho conhecimento em elétro/eletrônica e  sistemas de refrigeração
 - 📫 How to reach me  --> Sinta-se a vontade de me enviar um Whats +55(41)99936-1957
